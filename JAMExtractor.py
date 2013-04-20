@@ -1,4 +1,4 @@
-#/usr/bin/env python
+#!/usr/bin/python
 
 """
     JAM Extractor - LEGO Racers JAM extractor.
